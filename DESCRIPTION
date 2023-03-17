@@ -1,0 +1,11 @@
+Package: GenerativeEmotion
+Type: Package
+Title: A generative model for emotion dynamics
+Version: 0.1.0
+Author: Oisin Ryan <o.ryan@uu.nl>; Jonas Haslbeck <jonashaslbeck@gmail.com>; Fabian Dablander <dablander.fabian@gmail.com> 
+Maintainer: Oisin Ryan <o.ryan@uu.nl>; Jonas Haslbeck <jonashaslbeck@gmail.com>; Fabian Dablander <dablander.fabian@gmail.com> 
+Description: This project contains the computational model developed and evaluated in "Towards a Generative Model for Emotion Dynamics" (preprint:). It can be used to simulate data from the model in order to evaluate its behavior under a range of conditions and derive model predictions.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: MASS, Matrix, stats
