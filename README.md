@@ -1,6 +1,6 @@
 ### README
 
-This project contains the computational model developed and evaluated in "Towards a Generative Model for Emotion Dynamics" (preprint: ). This project can be used to simulate data from the model and investigate the behaviour implied by the model
+This project contains the computational model developed and evaluated in "Towards a Generative Model for Emotion Dynamics" (preprint: <https://psyarxiv.com/x52ns>). This project can be used to simulate data from the model and investigate the behaviour implied by the model
 
 ### Folders
 
